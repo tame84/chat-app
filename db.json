@@ -1,0 +1,29 @@
+{
+    "user": {
+        "id": "00001",
+        "name": "User1",
+        "likes": 24,
+        "picture": "/userPicture.png",
+        "posts": []
+    },
+    "posts": [
+        {
+            "id": "0478",
+            "author": {
+                "name": "User2",
+                "picture": "/userPicture2.png",
+                "id": "00002"
+            },
+            "content": "Salut !"
+        },
+        {
+            "id": "0478",
+            "author": {
+                "name": "User3",
+                "picture": "/userPicture3.png",
+                "id": "00003"
+            },
+            "content": "salut vous êtes qui??"
+        }
+    ]
+}
